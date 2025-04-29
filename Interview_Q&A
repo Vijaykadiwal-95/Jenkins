@@ -1,35 +1,57 @@
 Jenkins Interview Q&A
 
 1. What and all Jenkins jobs have you written.
+
 2. Have you come across Jenkins files
+
 3. Create a pipeline job (Might be asked to write the syntax or a basic
 piplejob depending on the input the interviewer gives)
+
 4. Give me real time scenario which you worked upon Jenkins pipeline
 job
+
 5. Have you written any multi branch pipeline job? What is the
 advantage of hanging multi branches over single branches?
+
 6. You install a plugin, do you reboot Master?
+
 7. Multiple test cases to run at the same time parallel, how to write in
 declarative.
+
 8. How nexus credentials are passed to Jenkins file to upload
 arti-factory.
+
 9. How you are managing your secrets to the Jenkins file.
+
 10. Sonarqube setup and integration with Jenkins pipeline.
+
 11. How you ensured wrong codes did not get into your pipeline.
+
 12. Types of jobs in Jenkins
+
 13. How do you configure maven in Jenkins?
+
 14. Have you configured sonarqube in Jenkins?
+
 15. Steps in Jenkins job, with syntax
+
 16. When you have Jenkins job with declarative pipeline. Is it possible to
 merge the code with the master branch, using Jenkins?
+
 17. Explain CICD complete process.
+
 18. What application have you built for the CICD java/java script
 applications?
+
 19. How do you enable continuous integration in Jenkins?
+
 20. How to run a shell command inside a stage?
+
 21. After generating code quality reports, how do you get the report back
 to developers automatically from Sonarqube in the Jenkins pipeline?
+
 22. How to get email notification whenever a stage fails?
+
 23. There are 10 stages in the pipeline, 4 stages are successfully
 completed, build fails in 5th stage, now you need to start the build
 from where the build process failed, How do you do that?
